@@ -83,7 +83,7 @@ Download Apsets App |IOS|Android|
 In Apsets App:
 | **Device Connection** | **Agent Marketplace**  | **Agent Showcase**  |
 | ----------- | ------------------------------ | ----------------- |
-| <img src="./images/Device Connection.jpg" width="200"> | <img src="./images/Agent Marketplace.jpg" width="200"> | <img src="./images/Agent Showcase.jpg" width = "200"> | 
+| <img src="./images/Device Connection.jpg" width="250"> | <img src="./images/Agent Marketplace.jpg" width="250"> | <img src="./images/Agent Showcase.jpg" width = "250"> | 
 
 
 

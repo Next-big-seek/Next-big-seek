@@ -1,10 +1,10 @@
-<img src="./images/logo.png" alt="AgentOS" width="30%" />
+<img src="./images/logo.png" alt="AgentOS" width="40%" />
 
-   **Welcome to Next-Big-Seek Agent OS!**
+ # **Welcome to Next-Big-Seek Agent OS!**
 
----
 （English| [中文](README.zh-CN.md)）
 
+---
 ## ✨Introduce
 
 **Next-Big-Seek Agent OS: The Central Nervous System for Intelligent Applications**

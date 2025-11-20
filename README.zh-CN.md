@@ -1,10 +1,11 @@
+<img src="./images/logo.png" alt="AgentOS" width="40%" />
 
+ # **欢迎来到 Next-Big-Seek Agent OS!**
 
-# 欢迎来到 Next-Big-Seek Agent OS!
 （[English](README.md)| 中文）
 
-![logo](./images/logo.png)
-## 介绍
+---
+## ✨介绍
 
 
 **Next-Big-Seek-Agent OS：新一代互联智能应用核心中枢**
@@ -25,10 +26,12 @@
 
 [![main follow](https://img.shields.io/badge/进入-官网-brightgreen?style=for-the-badge)](https://www.futuseek.com/zh) &ensp;&ensp;&ensp;
 
-## OS 架构
+---
+## ✨OS 架构
 
 <img src="./images/diagram.png" alt="AgentOS" width="50%" />
 
+---
 ## 🚀实现功能
 ### 1. 统一多协议设备接入
 
@@ -71,21 +74,21 @@
 -   长时记忆服务实现智能体持久化记忆
     
 -   本地搜索引擎为离线智能与快速查询提供支持
+---
 
-
-##  硬件
+##  ✨硬件
 ### 购买链接
 👉[AI陪伴对话聊天魔盒](https://item.taobao.com/item.htm?id=994966050649&pisk=flKkyEguYU75yZFlCqjSr4UAN_3xe7sCTBEd9MCEus5bwULJ9MmHpQ482TIJo9RpGvM52p5HtICXtwM5965H9p8-Hcn9FLsCYBctXc3wI6R9Z7SFTvWVdO3zWwLDFLsCT-FEWEJSxZpQsybeTi7VIOjFLwrrniW1BMrP8uJVgs6E_zP3NeE2YYbOsWH1ILBxnW92UsqMhnXzT1n1skPw0TvcaLJQYk-cEaxDZKOXwaLeCNtJnDqf2dYV0TAEbbS2QEvOr3cg26_HmQYHh4rAaEpPS3A-py6D-p-1VG2E4KjlZN-lzck2_KveWZxxQcsl4_8dVpeiwKxkwLtDpJzVqgLcS3jN4Na47hOgAarcdyaCzt6c6o9RDOpYhB4mnx4sPaWfefHmnyN5zt6VVxD07obPhTOc.&skuId=6140734123641&spm=a1z10.1-c.w4004-25964659305.2.59b013ebS5nRBc)
 ### 产品图片
-<img src='https://img.alicdn.com/imgextra/i2/2221128175165/O1CN012bfcLF1o1cmjdba4H_!!2221128175165.png_.webp' alt="Download on the App Store" height="400px" width="400px">
+<img src='https://img.alicdn.com/imgextra/i2/2221128175165/O1CN012bfcLF1o1cmjdba4H_!!2221128175165.png_.webp' alt="Download on the App Store" height="350px" width="350px">
 
 ### 支持的开源硬件
 
 - <a href="https://github.com/espressif/esp-box" target="_blank" title="Espressif ESP32-S3-BOX3">Espressif ESP32-S3-BOX3</a>
 - ...
 
-
-## 软件
+---
+## ✨软件
 ### 固件烧录
 下载烧录工具（ESP32S3 FLASH DOWNLOAD TOOL V3.9.8）及对应固件
 
@@ -95,10 +98,12 @@
 
 - Cursor or VSCode
 - ESP-IDF 框架：需安装 ESP-IDF（乐鑫官方物联网开发框架），版本建议 v5.4.3 及以上
-## 下载 Apsets App
+
+---
+## ✨下载 Apsets App
 下载路径  | 苹果 | 安卓 |
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="60px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="60px" width="160px">](https://play.google.com/store/apps/details?id=com.friend.ios)   [<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg' alt="Download on Mi App Store" height="60px" width="50px">](https://m.malink.cn/s/YvQV3q)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="60px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="60px" width="160px">](https://play.google.com/store/apps/details?id=com.friend.ios)   [<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg' alt="Download on Mi App Store" height="60px" width="40px">](https://m.malink.cn/s/YvQV3q)
 
 
 App 示例
@@ -106,5 +111,6 @@ App 示例
 | ----------- | ------------------------------ | ----------------- |
 | <img src="./images/Device Connection.jpg" width="250"> | <img src="./images/Agent Marketplace.jpg" width="250"> | <img src="./images/Agent Showcase.jpg" width = "250"> | 
 
-## 开发文档
+---
+## ✨开发文档
 > ...

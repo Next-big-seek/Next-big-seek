@@ -101,9 +101,9 @@
 
 ---
 ## ✨下载 Apsets App
-下载路径  | 苹果 | 安卓 |
+下载路径  | **苹果** | **安卓** |
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="60px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="60px" width="160px">](https://play.google.com/store/apps/details?id=com.friend.ios)   [<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg' alt="Download on Mi App Store" height="60px" width="50px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="50px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="50px" width="160px">](https://play.google.com/store/apps/details?id=com.friend.ios)   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Xiaomi-logo.jpg' alt="Download on Mi App Store" height="50px" width="120px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
 
 App 示例
 | **设备接入** | **智能体超市**  | **智能体演示**  |

@@ -80,7 +80,7 @@ Download the Flashing Tool (ESP32-S3 Flash Download Tool v3.9.8) and the Corresp
 - Cursor or VSCode
 - Install ESP-IDF plugin, select SDK version 5.4 or above
 ## ✨Get Apsets App (1 min)
-Download Apsets App | IOS | Android |
+Download Apsets App | **IOS** | **Android** |
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="60px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="60px" width="160px">](https://play.google.com/store/apps/details?id=com.friend.ios)   [<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg' alt="Download on Mi App Store" height="60px" width="50px">](https://m.malink.cn/s/YvQV3q)
 

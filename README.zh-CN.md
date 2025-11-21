@@ -103,7 +103,7 @@
 ## ✨下载 Apsets App
 下载路径  | **IOS** | **安卓** |
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="50px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="50px" width="160px">](https://play)   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Xiaomi-logo.jpg' alt="Download on Mi App Store" height="50px" width="120px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="50px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="50px" width="160px">](https://appgallery.huawei.com/app/C115823895?sharePrepath=ag&channelId=Apsets%E4%B8%8B%E8%BD%BD&id=b31cae43b21a418ab333b59c640b61b8&s=9E37CBE10EFC04FBFC3D5B708BC6E68177800E25B8806D7BDCF70FC01BC17542&detailType=0&v=&callType=AGDLINK&installType=0000&shareTo=qrcode)   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Xiaomi-logo.jpg' alt="Download on Mi App Store" height="50px" width="120px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
 
 App 示例
 | **设备接入** | **智能体超市**  | **智能体演示**  |

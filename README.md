@@ -1,4 +1,4 @@
-<img src="./images/logo.png" alt="AgentOS" width="40%" />
+<img src="./images/logo.png" alt="AgentOS" width="50%" />
 
  # **Welcome to Next-Big-Seek Agent OS!**
 
@@ -26,7 +26,7 @@ We are building a secure, open, and vibrant **developer ecosystem** to create a 
 ---
 ## ✨OS Framework
 
-<img src="./images/diagram.png" alt="AgentOS" width="50%" />
+<img src="./images/diagram.png" alt="AgentOS" width="60%" />
 
 ---
 ## 🚀Features Implemented

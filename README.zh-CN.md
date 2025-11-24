@@ -84,8 +84,8 @@
 
 ### 支持的开源硬件
 
-- <a href="https://github.com/espressif/esp-box" target="_blank" title="Espressif ESP32-S3-BOX3">Espressif ESP32-S3-BOX3</a>
-- ...
+- Espressif ESP32
+- Gx8006-882
 
 ---
 ## ✨软件

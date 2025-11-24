@@ -96,6 +96,7 @@ In Apsets App
 ## ✨About the Project
 
 This is an open-source ESP32 project, released under the MIT license, allowing anyone to use it for free, including for commercial purposes.
+
 If you have any ideas or suggestions, please feel free to raise Issues or join the QQ group: 1056381308
 
 ---

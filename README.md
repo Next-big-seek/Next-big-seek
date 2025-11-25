@@ -66,7 +66,7 @@ We are building a secure, open, and vibrant **developer ecosystem** to create a 
 
 ### Supported Open-Source Hardware
 
-- Espressif ESP32
+- [Espressif ESP32](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/echoear/index.html)
 - Gx8006-882
 
 ---

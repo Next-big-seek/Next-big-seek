@@ -84,7 +84,7 @@
 
 ### 支持的开源硬件
 
-- Espressif ESP32
+- [Espressif ESP32](https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32s3/echoear/index.html)
 - Gx8006-882
 
 ---

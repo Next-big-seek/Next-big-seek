@@ -119,4 +119,4 @@ App 示例
 
 ---
 ## ✨开发文档
-> [固件下载](https://github.com/Next-big-seek/Next-big-seek/blob/main/docs/%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD.docx)
+> [固件下载](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/blob/main/docs/%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD.docx)

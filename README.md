@@ -102,7 +102,7 @@ If you have any ideas or suggestions, please feel free to raise Issues or join t
 ---
 
 ## ✨开发文档
- > [固件下载](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD-EN.docx)
+ > [固件下载](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD-EN.docx)
  
  > [开发者指南](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E5%BC%80%E5%8F%91%E8%80%85%E6%8C%87%E5%8D%97-EN.docx)
  

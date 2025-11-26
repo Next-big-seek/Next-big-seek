@@ -102,8 +102,10 @@ If you have any ideas or suggestions, please feel free to raise Issues or join t
 ---
 
 ## ✨开发文档
- > [Firmware Download](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD-EN.docx)
+ > [Firmware Download](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Software%20%26%20Firmware%20Download-EN.docx)
  
- > [Developer Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E5%BC%80%E5%8F%91%E8%80%85%E6%8C%87%E5%8D%97-EN.docx)
+ > [Developer Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Developer%20Guide-EN.docx)
  
- > [Quick Start Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-EN.docx)
+ > [Quick Start Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Quick%20Start%20Guide-EN.docx)
+ 
+ > [Intelligent Agent Dialogue WS Interface Documentation](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Intelligent%20Agent%20Dialogue%20WS%20Interface%20Documentation_v2.0.docx)

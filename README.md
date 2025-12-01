@@ -7,17 +7,17 @@
 ---
 ## ✨Introduce
 
-**Next-Big-Seek Agent OS: The Central Nervous System for Intelligent Applications**
+**Next-Big-Seek Agent OS: The core hub of the new generation of interconnected intelligent applications**
 
-This multi-modal agent OS seamlessly connects and manages a vast ecosystem of devices—from smartphones to IoT sensors—enabling them to work together intelligently.
+This multimodal intelligent agent operating system seamlessly integrates, understands and processes data from a vast ecosystem of terminal devices - from smartphones, smart speakers to AI toys, as well as various IoT sensors that communicate via WiFi, Bluetooth, Zigbee, LoRa and 4G/5G networks, enabling intelligent collaborative operation among devices.
 
 **Core Architecture:**
-  -   **Device Access Service:** Unifies inputs from any device.
-  -   **Agent Response Service:** The system's "brain," powered by a Multi-Agent Cluster for translation, recognition, dialogue and act.
-  -   **Extensible Tool Set:** Grants agents access to external search, memory, and document services.
+  -   **Device Access Service:** Uniformly standardizes input information from various devices
+  -   **Agent Response Service:**  Acting as the system's "brain," it realizes functions such as translation, recognition, dialogue, and decision-making by relying on a multi-agent cluster.
+  -   **Extensible Tool Set:** Provides intelligent agents with the ability to call external search engines, memory databases, and document services, enabling them to perform complex operations.
     
 
-**Powered by cutting-edge AI**, including LLMs and VLMs, the platform processes data from multiple sources to deliver context-aware responses in any form—text, speech, or action.
+**Built on cutting-edge AI technologies**, it integrates leading large model APIs, including Automatic Speech Recognition (ASR), Text-to-Speech (TTS), Large Language Model (LLM) for advanced reasoning, and Vision-Language Model (VLM) for visual understanding. The resulting "many-to-many" platform can collaboratively process data from third-party content providers (such as music, news, and weather services) and local knowledge bases, ultimately generating rich context-aware responses. The system’s output formats are just as flexible as its inputs, encompassing text, synthetic speech, images, and direct device control, among other forms.
 
 We are building a secure, open, and vibrant **developer ecosystem** to create a smarter future together. **Join us!** 👬  
 

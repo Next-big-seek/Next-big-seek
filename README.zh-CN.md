@@ -125,4 +125,3 @@ App 示例
  
  > [快速入门指南](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.docx)
 
- > [智能体对话WS接口文档](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/%E6%99%BA%E8%83%BD%E4%BD%93%E5%AF%B9%E8%AF%9DWS%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3_v2.0.docx)

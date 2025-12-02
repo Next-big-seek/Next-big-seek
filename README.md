@@ -104,7 +104,7 @@ If you have any ideas or suggestions, please feel free to raise Issues or join t
 ## ✨Development Document
  > [Firmware Download](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Software%20%26%20Firmware%20Download-EN.docx)
  
- > [Developer Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Developer%20Guide-EN.docx)
+ > [Developer Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Developer%20Guide-EN.pdf)
  
  > [Quick Start Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Quick%20Start%20Guide-EN.docx)
  

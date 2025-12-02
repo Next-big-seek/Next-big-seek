@@ -102,7 +102,7 @@ If you have any ideas or suggestions, please feel free to raise Issues or join t
 ---
 
 ## ✨Development Document
- > [Firmware Download](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Software%20%26%20Firmware%20Download-EN.docx)
+ > [Firmware Download](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Firmware%20Download-EN.pdf)
  
  > [Developer Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Developer%20Guide-EN.pdf)
  

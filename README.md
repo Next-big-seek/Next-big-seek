@@ -106,6 +106,5 @@ If you have any ideas or suggestions, please feel free to raise Issues or join t
  
  > [Developer Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Developer%20Guide-EN.pdf)
  
- > [Quick Start Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Quick%20Start%20Guide-EN.docx)
+ > [Quick Start Guide](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Quick%20Start%20Guide-EN.pdf)
  
- > [Intelligent Agent Dialogue WS Interface Documentation](https://raw.githubusercontent.com/Next-big-seek/Next-big-seek/main/docs/Intelligent%20Agent%20Dialogue%20WS%20Interface%20Documentation_v2.0.docx)

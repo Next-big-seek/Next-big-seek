@@ -24,7 +24,7 @@
 
 我们正在构建一个安全、开放且充满活力的**开发者生态**，携手共创更智能的未来。**欢迎加入我们！** 👬
 
-[![main follow](https://img.shields.io/badge/进入-官网-brightgreen?style=for-the-badge)](https://www.futuseek.com/zh) &ensp;&ensp;&ensp;
+[![main follow](https://img.shields.io/badge/进入-官网-brightgreen?style=for-the-badge)](https://www.futuseek.com/) &ensp;&ensp;&ensp;
 
 ---
 ## ✨OS 架构

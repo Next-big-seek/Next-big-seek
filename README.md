@@ -21,7 +21,7 @@ This multimodal intelligent agent operating system seamlessly integrates, unders
 
 We are building a secure, open, and vibrant **developer ecosystem** to create a smarter future together. **Join us!** 👬  
 
-[![main follow](https://img.shields.io/badge/official-Website-brightgreen?style=for-the-badge)](https://www.futuseek.com/zh) &ensp;&ensp;&ensp;
+[![main follow](https://img.shields.io/badge/official-Website-brightgreen?style=for-the-badge)](https://www.futuseek.com/en) &ensp;&ensp;&ensp;
 
 ---
 ## ✨OS Framework
